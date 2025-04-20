@@ -3,6 +3,7 @@ import Banner from "../Banner/Banner";
 import Marquee from "../Marque/Marquee";
 import FutureEvent from "../FutureEvent/FutureEvent";
 import About from "../About/About";
+import Brand from "../Brand/Brand";
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <Marquee />
       <FutureEvent />
       <About />
+      <Brand />
     </div>
   );
 };
