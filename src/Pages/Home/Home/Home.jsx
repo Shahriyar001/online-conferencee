@@ -2,6 +2,7 @@ import React from "react";
 import Banner from "../Banner/Banner";
 import Marquee from "../Marque/Marquee";
 import FutureEvent from "../FutureEvent/FutureEvent";
+import About from "../About/About";
 
 const Home = () => {
   return (
@@ -9,6 +10,7 @@ const Home = () => {
       <Banner />
       <Marquee />
       <FutureEvent />
+      <About />
     </div>
   );
 };
