@@ -1,4 +1,14 @@
 # React + Vite
+## To Start In Your System
+```
+npm install
+npm run dev
+```
+
+# Github link
+```
+https://github.com/Shahriyar001/online-conferencee
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
