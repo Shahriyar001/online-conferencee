@@ -4,6 +4,8 @@ import Marquee from "../Marque/Marquee";
 import FutureEvent from "../FutureEvent/FutureEvent";
 import About from "../About/About";
 import Brand from "../Brand/Brand";
+import Register from "../Register/Register";
+import Pricing from "../Pricing/Pricing";
 
 const Home = () => {
   return (
@@ -13,6 +15,8 @@ const Home = () => {
       <FutureEvent />
       <About />
       <Brand />
+      <Register />
+      <Pricing />
     </div>
   );
 };
