@@ -1,18 +1,8 @@
 import React from "react";
 
 const Pricing = () => {
-  const cards = [
-    {
-      price: "100",
-      name: "name",
-    },
-    {
-      price: "100",
-      name: "name",
-    },
-  ];
   return (
-    <div className="bg-white h-[800px] max-w-[1326px]  mx-auto">
+    <div className="bg-white h-[700px] max-w-[1326px]  mx-auto">
       <div className="card lg:card-side lg:flex-row-reverse  py-20 border-none rounded-nonde text-black">
         <div className="w-6/10 flex">
           {/* cards  */}

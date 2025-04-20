@@ -6,6 +6,7 @@ import About from "../About/About";
 import Brand from "../Brand/Brand";
 import Register from "../Register/Register";
 import Pricing from "../Pricing/Pricing";
+import Blog from "../Blog/Blog";
 
 const Home = () => {
   return (
@@ -17,6 +18,7 @@ const Home = () => {
       <Brand />
       <Register />
       <Pricing />
+      <Blog />
     </div>
   );
 };

@@ -3,7 +3,7 @@ import register from "../../../assets/register.png";
 
 const Register = () => {
   return (
-    <div className="hero w-[1326px] bg-white mx-auto min-h-[800px] py-20">
+    <div className="hero w-[1326px] bg-white mx-auto min-h-[800px] py-15">
       <div className="hero-content flex-col lg:flex-row">
         {/* image section  */}
         <div className="w-1/2 left-0 max-w-[620px]">
